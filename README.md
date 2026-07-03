@@ -33,10 +33,10 @@ Here are the languages and core tools I utilize across  software development, ma
 
 ## 🚀 Featured Labs & Workspaces
 
-*  **[Pixel Cinema](./Pixel-Cinema)** - A Book My show type CLI Application using oops and C++ Concepts.
+*  **[Pixel Cinema]** - A Book My show type CLI Application using oops and C++ Concepts.
   
 
-* **[The Cyber-Breadboard](./cyber-breadboard)** - A virtual prototyping sandbox housing modular micro-controller firmware builds and digital logic circuits.
+* **[The Cyber-Breadboard]** - A virtual prototyping sandbox housing modular micro-controller firmware builds and digital logic circuits.
 
 
 
