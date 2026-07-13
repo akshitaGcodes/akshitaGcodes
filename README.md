@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* **[The Cyber-Breadboard]** - A virtual prototyping sandbox housing modular micro-controller firmware builds and digital logic circuits.
 -->
 # 👋 Hi, I'm akshitaGcodes
 
@@ -36,7 +38,6 @@ Here are the languages and core tools I utilize across  software development, ma
 *  **[Pixel Cinema]** - A Book My show type CLI Application using oops and C++ Concepts.
   
 
-* **[The Cyber-Breadboard]** - A virtual prototyping sandbox housing modular micro-controller firmware builds and digital logic circuits.
 
 
 
